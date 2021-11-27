@@ -1,3 +1,5 @@
+[![Build Status][travis-image]][travis-url]
+
 # __Conceptos básicos de HTML__
 Crea páginas web usando etiquetas __`HTML`__.
 
@@ -19,3 +21,6 @@ __< button >__ es una etiqueta de apertura. Le dice al navegador web que queremo
 ```
 
 ![button](./img/button.jpg)
+
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://anayaricardo.netlify.app/
