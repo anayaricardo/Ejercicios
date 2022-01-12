@@ -1,0 +1,35 @@
+button {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    width: 90px;
+    margin-left: 0px;
+    border-radius: 0px;
+    cursor: pointer;
+    height: 35px;
+    background: #0160A2;
+    color:rgb(175, 196, 201);
+    font-size: 20px;
+    box-shadow: 0 5px 25px 0 rgba(73, 73, 73, 0.686), 0 3px 5px 0 rgb(48, 48, 48);
+    border-color: rgb(175, 196, 201);  
+    border-style:solid; 
+    border-width: 4px;
+  }
+  button:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 162, 255);
+  box-shadow: 0 5px 25px 0 rgba(255, 255, 255, 0.686), 0 3px 5px 0 rgb(255, 255, 255);
+  border-color: rgb(71, 212, 255);  
+  border-style:solid; 
+  font-weight: 530;
+  border-width: 4px;
+  }
+  #background {
+      display: flex;
+      flex-direction: row;
+      flex-wrap:wrap;
+      align-items: stretch;
+
+  }
